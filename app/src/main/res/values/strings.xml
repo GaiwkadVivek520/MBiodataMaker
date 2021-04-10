@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Marathi marriage biodata maker</string>
+    <string name="name">नाव :</string>
+    <string name="dob">जन्मतारिख :</string>
+    <string name="dbplace">जन्मास्थळ :</string>
+    <string name="cast">जात :</string>
+    <string name="kuldaivat">कुलदैवत :</string>
+    <string name="education">शिक्षण :</string>
+    <string name="job">नोकरी :</string>
+    <string name="height">उंची :</string>
+    <string name="navaras_name">नावरस नाव :</string>
+    <string name="devak">देवक :</string>
+    <string name="charan">चरण :</string>
+    <string name="nadi">नाडी :</string>
+    <string name="varn">वर्ण :</string>
+    <string name="bloodgroup">रक्त गट :</string>
+    <string name="grandfathername">आजोबांचे नाव :</string>
+    <string name="father">वडील :</string>
+    <string name="mother">आई :</string>
+    <string name="brother">भाऊ :</string>
+    <string name="siter">बहीण :</string>
+    <string name="chulate">चुलते :</string>
+    <string name="mama">मामा:</string>
+    <string name="aatya">आत्या :</string>
+    <string name="mavashi">मावशी :</string>
+    <string name="village">मूळ गाव :</string>
+    <string name="current_address">सध्याचा मुक्काम:</string>
+    <string name="other_relatives">ई. नातेसंबंध :</string>
+    <string name="expectations">अपेक्षा :</string>
+    <string name="contact">संपर्क :</string>
+    <string name="header"><![CDATA[!! श्री गणेशाय नमः !! ]]></string>
+    <string name="create_biodata">Create Biodata</string>
+</resources>
