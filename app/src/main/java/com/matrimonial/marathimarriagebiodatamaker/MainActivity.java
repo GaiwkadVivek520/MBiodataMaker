@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
         // Do whatever you want with your bitmap
         saveBitmap(bitmap);
 
+
     }
 
 
